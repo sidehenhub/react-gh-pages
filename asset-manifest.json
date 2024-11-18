@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidehenhub/react-gh-pages.git/static/css/main.3de1e5a6.css",
+    "main.js": "/sidehenhub/react-gh-pages.git/static/js/main.890082e7.js",
+    "index.html": "/sidehenhub/react-gh-pages.git/index.html",
+    "main.3de1e5a6.css.map": "/sidehenhub/react-gh-pages.git/static/css/main.3de1e5a6.css.map",
+    "main.890082e7.js.map": "/sidehenhub/react-gh-pages.git/static/js/main.890082e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de1e5a6.css",
+    "static/js/main.890082e7.js"
+  ]
+}

@@ -1,0 +1,2 @@
+body{font-family:Roboto,Helvetica,sans-serif;text-align:center}.X{color:red}.O{color:blue}#game-grid{grid-gap:10px;display:grid;font:85px arial,sans-serif;grid-template-columns:100px 100px 100px;grid-template-rows:100px 100px 100px;justify-content:center;margin:3px}#game-grid>button{font-family:inherit;font-size:100%;height:100%;text-align:center;width:100%}
+/*# sourceMappingURL=main.3de1e5a6.css.map*/
